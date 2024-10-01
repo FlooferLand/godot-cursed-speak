@@ -1,0 +1,24 @@
+[gd_resource type="Resource" script_class="SpeechClipsResource" load_steps=10 format=3 uid="uid://bnd2364p2rpw3"]
+
+[ext_resource type="AudioStream" uid="uid://drxl6w76fdapt" path="res://audio/speech/first/0.mp3" id="1_2qom0"]
+[ext_resource type="AudioStream" uid="uid://bvyf4xlni0gse" path="res://audio/speech/first/1.mp3" id="2_acw0r"]
+[ext_resource type="AudioStream" uid="uid://bpr6udb58rcss" path="res://audio/speech/first/2.mp3" id="3_wjrvn"]
+[ext_resource type="AudioStream" uid="uid://ib557shjngwn" path="res://audio/speech/first/3.mp3" id="4_8sc8t"]
+[ext_resource type="AudioStream" uid="uid://cwj0l04mtplms" path="res://audio/speech/first/4.mp3" id="5_3i1qj"]
+[ext_resource type="AudioStream" uid="uid://dud4qtcn8td4v" path="res://audio/speech/first/5.mp3" id="6_6tdu7"]
+[ext_resource type="AudioStream" uid="uid://cu6ckndl7d0o4" path="res://audio/speech/first/6.mp3" id="7_tu5d6"]
+[ext_resource type="AudioStream" uid="uid://cp1qg7dvctuv0" path="res://audio/speech/first/7.mp3" id="8_xis0y"]
+[ext_resource type="Script" path="res://scripts/SpeechClipsResource.cs" id="9_lxi12"]
+
+[resource]
+script = ExtResource("9_lxi12")
+Clips = [ExtResource("1_2qom0"), ExtResource("2_acw0r"), ExtResource("3_wjrvn"), ExtResource("4_8sc8t"), ExtResource("5_3i1qj"), ExtResource("6_6tdu7"), ExtResource("7_tu5d6"), ExtResource("8_xis0y")]
+Words = "Hello, I am Godot. I am a free and open-source game engine licensed under MIT.
+I have committed several crimes against the US government,
+including several cases of first degree murder along 34 separate states.
+I am currently wanted by the state police because I am built different.
+The police helicopters in the sky look down at me with respect.
+Unity could never.
+Thank you for listening to my confession. Please hit like and subscribe.
+See you again in 6 to 12 hours as I am currently going to slowmode jail."
+StartDelay = 0.8
