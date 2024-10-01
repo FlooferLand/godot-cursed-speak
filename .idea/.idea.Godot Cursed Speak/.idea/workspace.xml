@@ -19,6 +19,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Executable.Player.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727792069264</updated>
-      <workItem from="1727792071263" duration="10316000" />
+      <workItem from="1727792071263" duration="10669000" />
     </task>
     <servers />
   </component>
